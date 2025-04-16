@@ -1,5 +1,8 @@
 # last_brief
 
+## Lien du dépot git
+https://github.com/HollyGhost237/last_brief.git
+
 #  Todo List Collaborative
 
 Une application full-stack pour gérer vos tâches en équipe avec tableau de bord et fonctionnalités collaboratives.
