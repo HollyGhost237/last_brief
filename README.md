@@ -7,8 +7,6 @@ https://github.com/HollyGhost237/last_brief.git
 
 Une application full-stack pour gérer vos tâches en équipe avec tableau de bord et fonctionnalités collaboratives.
 
-![Preview](https://via.placeholder.com/800x400?text=TodoList+Preview) *(Remplacez par une vraie capture d'écran)*
-
 ##  Fonctionnalités
 
 - ✅ Création/modification/suppression de tâches
